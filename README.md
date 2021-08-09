@@ -1,11 +1,11 @@
 # Sentimental Analysis Final Project - Tommaso Pessina (961739)
 
-# Dataset:
+### Dataset:
 labeled_data.csv
 ISEP Sexist Data labeling.xlsx
 
-# Jupyter Notebook:
+### Jupyter Notebook:
 ProjectSentimentalAnalysis.ipynb
 
-# Report:
+### Report:
 Sentimental_Analysis.pdf
